@@ -1,0 +1,18 @@
+
+# Environments
+venv/
+.env
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Mac
+.DS_Store
+
+# Application data (do not push personal DBs and resumes)
+jobs.db
+master_resume.txt
+tailored_resumes/
+config.json

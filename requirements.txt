@@ -1,0 +1,12 @@
+flask
+requests
+beautifulsoup4
+google-genai
+python-dotenv
+flask-cors
+
+psycopg2-binary
+PyJWT
+Werkzeug
+PyPDF2
+python-docx
